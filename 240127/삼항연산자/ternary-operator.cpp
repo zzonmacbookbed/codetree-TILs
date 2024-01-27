@@ -4,6 +4,6 @@ int main() {
     int a;
     string g;
     cin >> a;
-    a = a == 100 ? g = "pass" : g = "failure";
+    a == 100 ? g = "pass" : g = "failure";
     cout << g;
 }

@@ -5,5 +5,5 @@ int main() {
     cin >> a >> b;
     a += b;
     b += a;
-    cout a << " " << b;
+    cout << a << " " << b;
 }

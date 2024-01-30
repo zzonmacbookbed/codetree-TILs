@@ -13,6 +13,6 @@ int main() {
         cout << "YES" << endl;
     }
     else {
-        cout << "YES" << endl;
+        cout << "NO" << endl;
     }
 }

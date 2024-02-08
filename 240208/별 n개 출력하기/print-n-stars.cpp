@@ -4,7 +4,7 @@ int main() {
     int n,i = 1;
     cin >> n;
     while(i <= n) {
-        cout << "*" << " ";
+        cout << "*" << "\n";
         i ++ ;
     }
 }

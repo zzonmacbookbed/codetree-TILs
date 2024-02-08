@@ -11,8 +11,22 @@ int main() {
             cout << c;
         }
     }
-    else {
-        cout << a;
+    else if (b <= a && b <= c) {
+        if (a <= c) {
+            cout << a;
+        }
+        else {
+            cout << c;
+        }
+    
+    }
+    else if (c <= a && c <= b) {
+        if (a<=b) {
+            cout << a;
+        }
+        else {
+            cout << b;
+        }
     }
     return 0;
 }

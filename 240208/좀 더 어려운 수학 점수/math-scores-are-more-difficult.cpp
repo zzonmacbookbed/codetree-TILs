@@ -4,7 +4,7 @@ int main() {
     int a,b,c,d;
     cin >> a >> b >> c >> d;
 
-    if (a >= c || c >= a) {
+    if (a > c || c > a) {
         if (a >= c) {
             cout << "A";
         }

@@ -8,7 +8,7 @@ int main() {
             cout << "MAN";
         }
         else {
-            cout << "BOY"
+            cout << "BOY";
         }
     }
     else {

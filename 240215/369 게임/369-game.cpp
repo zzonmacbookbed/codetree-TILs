@@ -13,7 +13,7 @@ int main() {
             }
         }
         else if (i >= 30 && i < 40) {
-            cout << 0;
+            cout << 0 << " ";
         }
     }
 }

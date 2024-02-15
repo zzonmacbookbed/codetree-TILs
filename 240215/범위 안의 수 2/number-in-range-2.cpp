@@ -7,7 +7,7 @@ int main() {
         sum += a;
     }
     cout << fixed;
-    cout << presicion(1);
+    cout.presicion(1);
     cout << sum << " " << (double)sum/10;
     return 0;
 }

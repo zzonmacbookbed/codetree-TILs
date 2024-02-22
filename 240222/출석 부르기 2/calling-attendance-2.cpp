@@ -18,6 +18,7 @@ int main() {
         }
         else {
             cout << "Vacancy" ;
+            break
         }
     }
     return 0;
